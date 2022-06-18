@@ -9,6 +9,7 @@
     "noImplicitOverride": true,
     "noImplicitAny": false,
     "strictPropertyInitialization": false,
+    "strictNullChecks":false,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
